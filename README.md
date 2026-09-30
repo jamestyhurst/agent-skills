@@ -9,6 +9,7 @@ either a skills directory or a plain `AGENTS.md`-style instructions file).
 |---|---|
 | [`pair-programmer`](pair-programmer/SKILL.md) | Dictate-mode pairing: the agent tells you exactly what to type, one step at a time, instead of editing/running things itself — for practice and independence, not speed. |
 | [`wrap`](wrap/SKILL.md) | Close out a session with one short, evidence-based log entry, then hand off to whatever your project already wants done at session end. |
+| [`review-pr`](review-pr/SKILL.md) | Merge-readiness triage for a queue of open pull requests: one at a time, oldest first, weighing CI, conflicts, blast radius, tests, and design fit — then merges only when you say so. |
 
 ## Installing a skill
 
