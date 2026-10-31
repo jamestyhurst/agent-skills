@@ -4,6 +4,8 @@ regime: product
 
 # agent-skills
 
+This is the **one** instruction file. `CLAUDE.md` only imports it.
+
 Public repo — ships to other people, so `product` regime (full effort, proactively
 improved, not a learning artifact). See `Software_Engineering\CONTEXT.md` for what regime
 means and `Agentic_Engineering_Schema\project_setup_and_testing_ladder.md` for what it
